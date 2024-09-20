@@ -1,7 +1,7 @@
 
-# Contributing to React Bando
+# Contributing to Bando OS
 
-🎉 Thank you for your interest in contributing to React Bando! 🎉
+🎉 Thank you for your interest in contributing to Bando OS! 🎉
 
 We welcome contributions from everyone. By participating in this project, you agree to abide by our [Code of Conduct](CODE_OF_CONDUCT.md).
 
@@ -11,15 +11,15 @@ We welcome contributions from everyone. By participating in this project, you ag
 
 If you encounter a bug or issue with the project, please follow these steps:
 
-1. Check the [existing issues](https://github.com/bandohq/react-bando/issues) to see if the issue has already been reported.
-2. If it hasn't, [create a new issue](https://github.com/bandohq/react-bando/issues/new) with a descriptive title and detailed description of the problem, including steps to reproduce if possible.
+1. Check the [existing issues](https://github.com/bandohq/create3-proxy/issues) to see if the issue has already been reported.
+2. If it hasn't, [create a new issue](https://github.com/bandohq/create3-proxy/issues/new) with a descriptive title and detailed description of the problem, including steps to reproduce if possible.
 
 ### Suggesting Enhancements
 
 We welcome suggestions for how we can improve React Bando. If you have an idea for an enhancement, follow these steps:
 
-1. Check the [existing issues](https://github.com/bandohq/react-bando/issues) to see if the enhancement has already been suggested.
-2. If it hasn't, [create a new issue](https://github.com/bandohq/react-bando/issues/new) with a clear title and description of your enhancement idea.
+1. Check the [existing issues](https://github.com/bandohq/create3-proxy/issues) to see if the enhancement has already been suggested.
+2. If it hasn't, [create a new issue](https://github.com/bandohq/create3-proxy/issues/new) with a clear title and description of your enhancement idea.
 
 ### Pull Requests
 
