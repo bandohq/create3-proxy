@@ -4,6 +4,10 @@
   "description": "Create3 deterministic addresses for Upgradeable Proxies",
   "author": "g6s",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bandohq/create3-proxy.git"
+  },
   "dependencies": {
     "solmate": "^6.2.0",
     "@openzeppelin/contracts": "^5.0.0"
