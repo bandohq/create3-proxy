@@ -3,3 +3,9 @@ optimizer_runs = 1000000
 solc = "0.8.20"
 bytecode_hash = "none"
 libs = ["node_modules", "lib"]
+
+remappings = [
+    "forge-std/=lib/forge-std/src/",
+    "@openzeppelin/=lib/openzeppelin-contracts/",
+    "solmate/=lib/solmate/src/",
+]
