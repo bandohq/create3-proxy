@@ -1,0 +1,12 @@
+{
+  "name": "create3-proxy",
+  "version": "0.1.0",
+  "description": "Create3 deterministic addresses for Upgradeable Proxies",
+  "author": "g6s",
+  "license": "MIT",
+  "dependencies": {
+    "solmate": "^6.2.0",
+    "forge-std": "^1.6.0",
+    "@openzeppelin/contracts": "^5.0.0"
+  }
+}
