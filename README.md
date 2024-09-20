@@ -2,6 +2,7 @@
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bandohq/create3-proxy/blob/main/LICENSE)
 [![Build](https://github.com/bandohq/create3-proxy/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/bandohq/create3-proxy/actions/workflows/CI.yml)
+[![npm version](https://img.shields.io/npm/v/create3-proxy.svg)](https://www.npmjs.com/package/create3-proxy)
 
 
 A Solidity library for deploying upgradeable proxies using the CREATE3 pattern, enabling deterministic addresses across different chains without relying on nonces or code.
@@ -19,10 +20,21 @@ CREATE3 Proxy combines the power of CREATE3 for deterministic contract deploymen
 
 ## Installation
 
-To install with Foundry:
+### Install with Foundry:
 
 ```bash
 forge install bandohq/create3-proxy
+```
+
+### Install with npm:
+
+```bash
+npm i create3-proxy
+```
+### Install with yarn:
+
+```bash
+yarn add create3-proxy
 ```
 
 ## Usage
