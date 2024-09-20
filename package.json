@@ -1,6 +1,6 @@
 {
   "name": "create3-proxy",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Create3 deterministic addresses for Upgradeable Proxies",
   "author": "g6s",
   "license": "MIT",
