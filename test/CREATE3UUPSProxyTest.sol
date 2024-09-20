@@ -2,7 +2,7 @@
 pragma solidity ^0.8.20;
 
 import "forge-std/Test.sol";
-import "solmate/src/utils/CREATE3.sol";
+import "solmate/utils/CREATE3.sol";
 import "../src/CREATE3UUPSProxy.sol";
 import "./TestImplementation.sol";
 import "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol";

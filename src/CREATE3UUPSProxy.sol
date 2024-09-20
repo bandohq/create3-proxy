@@ -3,7 +3,7 @@ pragma solidity >=0.8.0;
 
 import "@openzeppelin/contracts/proxy/ERC1967/ERC1967Proxy.sol";
 import "@openzeppelin/contracts/utils/Create2.sol";
-import "solmate/src/utils/CREATE3.sol";
+import "solmate/utils/CREATE3.sol";
 
 /// @title CREATE3UUPSProxy
 /// @author g6s
