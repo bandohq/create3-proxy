@@ -1,8 +1,7 @@
 # CREATE3 for Upgradeable Proxies
 
 [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/bandohq/create3-proxy/blob/main/LICENSE)
-[![npm version](https://img.shields.io/npm/v/create3-proxy.svg)](https://www.npmjs.com/package/create3-proxy)
-[![Build Status](https://github.com/bandohq/create3-proxy/workflows/CI/badge.svg)](https://github.com/bandohq/create3-proxy/actions)
+[![Build](https://github.com/bandohq/create3-proxy/actions/workflows/CI.yml/badge.svg?branch=main)](https://github.com/bandohq/create3-proxy/actions/workflows/CI.yml)
 
 
 A Solidity library for deploying upgradeable proxies using the CREATE3 pattern, enabling deterministic addresses across different chains without relying on nonces or code.
