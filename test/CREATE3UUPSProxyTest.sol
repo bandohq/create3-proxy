@@ -30,10 +30,10 @@ contract CREATE3UUPSProxyTest is Test {
 
             TestImplementation impl = TestImplementation(proxy);
             assertEq(impl.value(), initialValue, "Proxy should be initialized with correct value");
-        } catch Error(string memory reason) {
-            fail(string(abi.encodePacked("Deployment failed: ", reason)));
-        } catch (bytes memory lowLevelData) {
-            fail(string(abi.encodePacked("Deployment failed with raw error: ", vm.toString(lowLevelData))));
+        } catch Error(string memory) {
+            fail();
+        } catch (bytes memory) {
+            fail();
         }
     }
 
